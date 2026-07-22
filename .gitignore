@@ -1,0 +1,13 @@
+# Local Netlify folder
+.netlify
+
+# Vercel
+.vercel
+
+# Duplicate deploy folder (root is source of truth)
+dist
+
+# Dependencies / OS
+node_modules
+.DS_Store
+Thumbs.db

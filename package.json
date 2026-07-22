@@ -1,0 +1,10 @@
+{
+  "name": "mexicoplaytv",
+  "version": "1.0.0",
+  "private": true,
+  "description": "México Play — landing page de vendas",
+  "scripts": {
+    "dev": "npx --yes serve -l 5173",
+    "start": "npx --yes serve -l 5173"
+  }
+}
