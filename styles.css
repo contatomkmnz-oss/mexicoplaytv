@@ -326,6 +326,12 @@ a {
   max-width: 60ch;
 }
 
+.receive-close {
+  margin-top: 1.5rem;
+  font-weight: 600;
+  color: rgba(255, 255, 255, 0.92);
+}
+
 /* —— Bonus —— */
 .bonus {
   background: linear-gradient(180deg, rgba(0, 104, 71, 0.18), transparent 70%);
@@ -394,6 +400,12 @@ a {
 .bonus-grid p {
   color: rgba(255, 255, 255, 0.75);
   line-height: 1.5;
+}
+
+.bonus-close {
+  margin-top: 1.5rem;
+  text-align: center;
+  margin-inline: auto;
 }
 
 #oferta {
